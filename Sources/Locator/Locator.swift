@@ -26,7 +26,7 @@ public class Locator: NSObject, ObservableObject {
         return status == .authorizedAlways
     }
     public var isAuthorizedWhenInUse: Bool {
-        return manager.authorizationStatus == .authorizedAlways
+        return manager.authorizationStatus == .authorizedWhenInUse
     }
     
     public override init() {
