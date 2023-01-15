@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "locator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Grafonsky/Locator",
+      "state" : {
+        "revision" : "adcbfee6f7c5edce6ac20357629cccc79b1913bf",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
